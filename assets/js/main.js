@@ -11,7 +11,7 @@ function redirectToPage(shortlnk) {
     if (typeof urlMap !== 'undefined') {
         const actualLink = urlMap[shortlnk];
         if (actualLink) {
-            document.documentElement.innerHTML = ''
+            document.documentElement.innerHTML = '';
             document.write("Redirecting you to <b>" +  actualLink + "</b>");
             window.location.replace(actualLink);
         }
