@@ -12,6 +12,7 @@ const urlMap1 = {
     ln : "https://libopenprojects.github.io/libopen-notify",
     lp : "https://libopenprojects.github.io/libopen-processes",
     ls : "https://libopenprojects.github.io/sampleprograms",
+    lgp : "https://libopenprojects.github.io/",
     dc : "https://www.patreon.com/devcareer",
     exit : "https://301s.github.io/"
 }
