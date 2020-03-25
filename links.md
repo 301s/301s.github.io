@@ -39,4 +39,3 @@ A static URL shortening and link management project.
     }
 </script>
 ----
-</body>
