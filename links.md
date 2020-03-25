@@ -30,8 +30,8 @@ A table containing the shortcode, 301s link and the actual links in the project.
                     `
                     <tr>
                     <td>${key}</td>
-                    <td style="text-align: center">https://301s.github.io/?${key}</td>
-                    <td style="text-align: left">${urlMap[key]}</td>
+                    <td style="text-align: center"><a href="https://301s.github.io/?${key}">https://301s.github.io/?${key}</a></td>
+                    <td style="text-align: left"><a href="${urlMap[key]}">${urlMap[key]}</a></td>
                     </tr>
                     `
                 );
