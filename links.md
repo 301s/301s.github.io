@@ -1,6 +1,7 @@
 
 # All links in 301s
-A static URL shortening and link management project.
+
+A table containing the shortcode, 301s link and the actual links in the project.
 
 ---
 <script src="/assets/js/urls.1.js"></script> <script src="/assets/js/main.js"></script>
