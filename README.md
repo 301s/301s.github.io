@@ -6,11 +6,11 @@
 <script src="/assets/js/urls.1.js"></script> <script src="/assets/js/main.js"></script>
 ---
 
-To add a shortlink edit one of the `urls.*.js` script in [/assets/js/](https://github.com/301s/301s.github.io/tree/master/assets/js) and add a short code and it link as a dictionary object. `{shortcode : "your actual link"}`.
+To add a shortlink edit one of the `urls.*.js` script in [/assets/js/](https://github.com/301s/301s.github.io/tree/master/assets/js) and add a short code and it link as a key value pair. `shortcode : "your actual link"`.
 
 Then open a PR to master [here](https://github.com/301s/301s.github.io/pulls). Your PR will be reviewed if it ok your PR will be merged into master and your shortlink will be available at [https://301s.github.io?shortcode](https://301s.github.io?shortcode)
 
-E.g assume your shortcode is `dc` and your link is `https://www.patreon.com/devcareer`. Edit one of the `url.*.js` script in [/assets/js/](https://github.com/301s/301s.github.io/tree/master/assets/js)
+E.g assume your shortcode is `dc` and your link is `https://www.patreon.com/devcareer`. Edit one of the `url.*.js` script in [/assets/js/](https://github.com/301s/301s.github.io/tree/master/assets/js) add your shortlink detail in the format below:
 
 ```js
 const urlMap1 = {
@@ -20,7 +20,7 @@ const urlMap1 = {
 }
 ```
 
-After a PR has been merged into master the link will be available at [https://301s.github.io?dc](https://301s.github.io?dc). Anytime the link https://301s.github.io?dc is visited it will redirect to https://www.patreon.com/devcareer.
+After the PR has been merged into master the link will be available at [https://301s.github.io?dc](https://301s.github.io?dc). Anytime the link https://301s.github.io?dc is visited it will redirect to https://www.patreon.com/devcareer.
 
  > Note: Add your short code and link before the 'exit' link and do not forget the comma after your short code and link. 
 

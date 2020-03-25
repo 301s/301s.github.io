@@ -8,6 +8,10 @@ if (typeof window.URLMaps == 'undefined') {
 const urlMap1 = {
     1 : "https://thecarisma.github.io/",
     2 : "https://github.com/Thecarisma",
+    lt : "https://libopenprojects.github.io/libopen-types",
+    ln : "https://libopenprojects.github.io/libopen-notify",
+    lp : "https://libopenprojects.github.io/libopen-processes",
+    ls : "https://libopenprojects.github.io/sampleprograms",
     dc : "https://www.patreon.com/devcareer",
     exit : "https://301s.github.io/"
 }
