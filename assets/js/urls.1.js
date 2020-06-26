@@ -11,18 +11,17 @@ const urlMap1 = {
     3 : "https://thecarisma.github.io/installx.ps1",
     
     // libexotic
-    lt : "https://exoticlibraries.github.io/libexotic-types",
-    ln : "https://exoticlibraries.github.io/libexotic-notify",
-    lp : "https://exoticlibraries.github.io/libexotic-processes",
-    ls : "https://exoticlibraries.github.io/sampleprograms",
+    lt : "https://exoticlibraries.github.io/libxtypes",
+    ln : "https://exoticlibraries.github.io/libnotifi",
+    lp : "https://exoticlibraries.github.io/libprocs",
     lc : "https://exoticlibraries.github.io/libcester",
     lgp : "https://exoticlibraries.github.io/",
     
     // konfiger
     kn : "https://konfiger.github.io/konfiger-nodejs",
-    kj : "https://konfiger.github.io/konfiger-java",
+    kj : "https://konfiger.github.io/konfiger-jvm",
     kp : "https://konfiger.github.io/konfiger-python",
-    kcs : "https://konfiger.github.io/konfiger-csharp",
+    kd : "https://konfiger.github.io/konfiger-dotnet",
     kc : "https://konfiger.github.io/konfiger-c",
     kb : "https://konfiger.github.io/konfiger-beam",
     kgp : "https://konfiger.github.io",
