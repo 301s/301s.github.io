@@ -12,9 +12,14 @@ const urlMap1 = {
     
     // libexotic
     lt : "https://exoticlibraries.github.io/libxtypes",
-    ln : "https://exoticlibraries.github.io/libnotifi",
-    lp : "https://exoticlibraries.github.io/libprocs",
+    ln : "https://exoticlibraries.github.io/libnosey",
+    lp : "https://exoticlibraries.github.io/libxprocs",
     lc : "https://exoticlibraries.github.io/libcester",
+    lm : "https://exoticlibraries.github.io/libmetaref",
+    lmj : "https://exoticlibraries.github.io/libmetajson",
+    lh : "https://exoticlibraries.github.io/libhigway",
+    lxh : "https://exoticlibraries.github.io/libxhttp",
+    lla : "https://exoticlibraries.github.io/liblaner",
     lgp : "https://exoticlibraries.github.io/",
     
     // konfiger
