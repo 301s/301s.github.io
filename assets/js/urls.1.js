@@ -33,9 +33,10 @@ const urlMap1 = {
     
     // ronuse
     ru : "https://ronuse.github.io",
-    ru_rc : "https://ronuse.github.io/ronuse-react-components",
-    ru_ac : "https://ronuse.github.io/ronuse-android-components",
-    ru_ic : "https://ronuse.github.io/ronuse-ios-components",
+    ru_rc : "https://ronuse.github.io/ronuse-react-ui",
+    ru_ac : "https://ronuse.github.io/ronuse-android-ui",
+    ru_ic : "https://ronuse.github.io/ronuse-ios-ui",
+    ru_fp : "https://ronuse.github.io/ronuse-figma-plugin",
     
     // others
     dc : "https://www.patreon.com/devcareer",
