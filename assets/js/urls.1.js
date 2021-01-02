@@ -39,6 +39,7 @@ const urlMap1 = {
     ru_fp : "https://ronuse.github.io/ronuse-figma-plugin",
     
     // others
+    esp : "https://quickutils.github.io/extract-spring-permissions",
     dc : "https://www.patreon.com/devcareer",
     dj : "https://thedarkprojects.github.io/devjammer/",
     exit : "https://301s.github.io/"
