@@ -15,6 +15,7 @@ const urlMap1 = {
     ln : "https://exoticlibraries.github.io/libnosey",
     lp : "https://exoticlibraries.github.io/libxprocs",
     lc : "https://exoticlibraries.github.io/libcester",
+    ll : "https://exoticlibraries.github.io/liblogax",
     lm : "https://exoticlibraries.github.io/libmetaref",
     lcx : "https://exoticlibraries.github.io/libcerxos",
     lh : "https://exoticlibraries.github.io/libhigway",
